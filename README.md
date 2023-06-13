@@ -1,0 +1,2 @@
+# TestNameSpace
+test @NameSpace SwiftUI
